@@ -36,6 +36,8 @@ Train the model
 python train.py
 Make predictions
 python predict.py --image path_to_image
+
+
 📊 Dataset
 
 The dataset consists of labeled images of plant leaves categorized into healthy and diseased classes. You can use publicly available datasets or your own collected data.
