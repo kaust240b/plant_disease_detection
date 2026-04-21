@@ -63,4 +63,4 @@ Deep learning community for resources and inspiration
 📧 Contact
 
 For questions or collaboration:
-your-email@example.com
+your-tiwarikaustubh13@gmail.com
