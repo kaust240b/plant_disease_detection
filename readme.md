@@ -18,6 +18,7 @@ Activation functions (ReLU)
 Max-pooling layers for downsampling
 Fully connected (dense) layers
 Softmax output layer for classification
+
 📂 Project Structure
 ├── dataset/              # Training and testing images  
 ├── model/                # Saved trained model  
@@ -25,6 +26,8 @@ Softmax output layer for classification
 ├── src/                  # Source code (training, prediction scripts)  
 ├── requirements.txt      # Dependencies  
 └── README.md             # Project documentation  
+
+
 ⚙️ Installation
 Clone the repository:
 git clone https://github.com/your-username/plant-disease-detection.git
